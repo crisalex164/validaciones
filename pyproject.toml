@@ -1,0 +1,10 @@
+[project]
+name = "confrontainterna"
+version = "0.1.0"
+description = "Proyecto para la validacion interna del padron"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "curpsuite>=2.6.1",
+    "flask>=3.1.0",
+]
